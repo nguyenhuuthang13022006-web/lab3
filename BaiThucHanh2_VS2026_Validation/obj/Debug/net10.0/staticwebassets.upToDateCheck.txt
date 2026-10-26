@@ -1,0 +1,4 @@
+wwwroot\css\styles.css
+wwwroot\js\scripts.js
+C:\Users\Admin\Downloads\BaiThucHanh2_VS2026_Validation_Fixed\BaiThucHanh2_VS2026_Validation\wwwroot\css\styles.css
+C:\Users\Admin\Downloads\BaiThucHanh2_VS2026_Validation_Fixed\BaiThucHanh2_VS2026_Validation\wwwroot\js\scripts.js
